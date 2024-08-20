@@ -13,6 +13,9 @@ A basic recipe website created as part of The Odin Project's Foundations course 
 - `recipes/`: Directory containing individual recipe pages
 - `images/`: Directory containing images for recipes
 
+## View Project
+[View my Odin Recipes Project](https://bowtiedfrogs.github.io/odin-project-public/projects/odin-recipes/index.html)
+
 ## Future Improvements
 - Add CSS for styling
 - Make the site responsive
